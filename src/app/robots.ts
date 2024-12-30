@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://allabtai.com/sitemap.xml',
+    sitemap: 'https://superstrongai.com/sitemap.xml',
   }
 } 
