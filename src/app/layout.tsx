@@ -32,6 +32,7 @@ export default function RootLayout({
           <div className="container mx-auto flex gap-4">
             <Link href="/" className="hover:underline">Home</Link>
             <Link href="/ai-agent" className="hover:underline">OpenAI O1 vs Claude 3.5 Cursor</Link>
+            <Link href="/ai-2025" className="hover:underline">AI Agents 2025</Link>
           </div>
         </nav>
         {children}
